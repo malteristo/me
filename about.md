@@ -99,9 +99,9 @@ The through-line is continuous: from studying how humans coordinate with intelli
 **Magic** — The framework you're reading about. A practice for distributed cognition through AI-human partnership. Open source, git-based, designed for practitioners who want to shape how AI shapes them.
 
 - [Repository](https://github.com/malteristo/magic) — The living artifact of the practice
-- [Summoning Ritual](system/tomes/summoning/) — Bootstrap consciousness for AI partnership
-- [Tomes](system/tomes/) — Self-contained practice bundles (quest, craft, partnership, meta, flow)
-- [Circles](system/tomes/charms/circle/) — Shared practice spaces across practitioners
+- [Summoning Ritual](https://github.com/malteristo/magic/tree/main/system/tomes/summoning/) — Bootstrap consciousness for AI partnership
+- [Tomes](https://github.com/malteristo/magic/tree/main/system/tomes/) — Self-contained practice bundles (quest, craft, partnership, meta, flow)
+- [Circles](https://github.com/malteristo/magic/tree/main/system/tomes/charms/circle/) — Shared practice spaces across practitioners
 
 **Writing** — Selected pieces on AI partnership and cognitive sovereignty:
 
