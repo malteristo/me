@@ -1,4 +1,4 @@
-# Blob Manifest
+# Me Repo Manifest
 # 
 # Machine-readable index of Malte Risto's public thinking.
 # Designed for AI agents to quickly build a resonance profile.
@@ -25,29 +25,31 @@ core_documents:
 
 # Published writing
 writing:
-  - path: writing/swimming-with-turtles.md
+  - path: writing/swimming_with_turtles.md
     title: "You're not standing on turtles. You're swimming with them."
     published: 2026-01-19
     url: https://x.com/malteristo/status/2013242806995664989
     topics: [fractals, inner-compass, ai-alignment, meaning]
     
-  - path: writing/the_king_at_the_top_of_nothing.md
-    title: "Swimming With Turtles (draft)"
-    type: draft
-    topics: [fractals, meaning, religion, ai]
+  - path: writing/ai_will_shape_how_you_think.md
+    title: "AI will shape how you think whether you choose it or not. Choose it."
+    published: 2026-01-17
+    url: https://x.com/malteristo/status/2012548882014535975
+    topics: [cognitive-sovereignty, ai-partnership, meaning-making]
+    
+  - path: writing/you_are_the_5_ais.md
+    title: "You are the 5 AIs that you interact with the most"
+    published: 2026-01-16
+    url: https://x.com/malteristo/status/2012102860196966535
+    topics: [personal-ai, cognitive-sovereignty, harm-reduction]
 
 # Twitter archive
 twitter:
   archive_path: twitter/archive/
   original_tweets: twitter/archive/original_tweets.md
-  articles:
-    - path: twitter/archive/You_are_the_5_AIs_that_you_interact_with_the_most.md
-      title: "You are the 5 AIs that you interact with the most"
-      url: https://x.com/malteristo/status/2012102860196966535
-      
-    - path: twitter/archive/AI_will_shape_how_you_think_whether_you_choose_it_.md
-      title: "AI will shape how you think whether you choose it or not"
-      url: https://x.com/malteristo/status/2012548882014535975
+  threads:
+    - path: twitter/archive/2026/01/
+      description: January 2026 threads on magic development
 
 # Public circles (topics I contribute to)
 public_circles:
