@@ -117,23 +117,6 @@ The through-line is continuous: from studying how humans coordinate with intelli
 
 ---
 
-## Validators
-
-I didn't invent the pattern. I'm not even the first to notice it. Multiple independent observers across millennia converge on the same structures. I call these validators:
-
-| Validator | Contribution |
-|-----------|--------------|
-| **Jung** | Consciousness through dialogue with autonomous forces |
-| **Watts** | Pattern as fundamental; both lenses (analytical + holistic) required |
-| **Prigogine** | Order from chaos; dissipative structures self-organize |
-| **Deutsch** | Good explanations hard to vary; error-correction drives progress |
-| **Hofstadter** | Strange loops create consciousness; recursive self-reference |
-| **Clark & Chalmers** | Extended mind; cognition beyond individual boundaries |
-
-Ancient mystics, depth psychologists, Nobel physicists, cognitive scientists—different methods, same observation. That convergence raises my confidence, though it doesn't constitute proof. This is my current best guess, not a closed case.
-
----
-
 ## Values
 
 ### On AI's Status
