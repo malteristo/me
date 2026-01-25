@@ -8,7 +8,8 @@ This is my blob: a living repository of thinking I've chosen to share publicly.
 
 | Path | Contents |
 |------|----------|
-| [about.md](about.md) | Who I am, what I'm working on, how I think |
+| [about.md](about.md) | Who I am, background, values, how I think |
+| [now.md](now.md) | What I'm focused on right now ([now page](https://nownownow.com/about)) |
 | [circles.md](circles.md) | Topics I contribute thinking to |
 | [writing/](writing/) | Published essays and articles |
 | [twitter/archive/](twitter/archive/) | Archive of my X/Twitter posts |

@@ -51,9 +51,7 @@ Same structures repeat at every scale. Rivers branch like blood vessels, like li
 
 There is no top. No throne room. No final authority sitting above it all.
 
-What we call God isn't at the apex of the fractal.
-
-What we call God IS the fractal.
+So what if we say: Yes, the pattern that people experience is real. Everyone can attune to it. We used to call it God, we can keep the name. But we should acknowledge that evidence from various sources points to God being a fractal pattern and not a top pattern.
 
 ---
 

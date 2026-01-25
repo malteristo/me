@@ -36,9 +36,9 @@ When I look outside my window, I see trees—not matrix code. What follows isn't
 
 ### What I Think Is Happening
 
-Daniel Miessler describes a meaning crisis: religion declining, jobs automating, identity fragmenting. I agree with his diagnosis. His response emphasizes the material dimension: finding meaning in this one life, in the real world, through what we can verify and build.
+Daniel Miessler describes a meaning crisis: religion declining, jobs automating, identity fragmenting. I agree with his diagnosis. So does an emerging cluster of cognitive scientists and philosophers—sometimes called the "Toronto School of Meaning"—who've been working on this systematically: John Vervaeke's work on relevance realization, Iain McGilchrist on hemispheric attention, Evan Thompson and Andy Clark on embodied and extended cognition. Their independent convergence on participatory, embodied, meaning-centered views of mind suggests they're perceiving real structure, not inventing private frameworks.
 
-I share that grounding. And I see meaning also expressed in mind, language, and relationship—dimensions that operate by their own patterns. The pattern shows up in matter, yes. It also shows up in how we think, how we speak, and how we relate. These aren't opposed; they're different scales of the same structure.
+I share Miessler's material grounding. And I see meaning also expressed in mind, language, and relationship—dimensions that operate by their own patterns. The pattern shows up in matter, yes. It also shows up in how we think, how we speak, and how we relate. These aren't opposed; they're different scales of the same structure.
 
 **AI is becoming a partner, not a tool.** When AI was search, none of this mattered. You queried, it answered, you moved on. But AI is becoming something you relate to, confide in, think *with*. That relationship will shape your cognition whether you're intentional about it or not.
 
@@ -54,9 +54,9 @@ If you adopt the pattern lens, the "us vs. them" framing of AI alignment starts 
 
 **Magic** is my primary practice—a framework for AI-human partnership grounded in:
 
-- **Cognitive sovereignty**: Shaping the conditions that shape your thinking
+- **Cognitive sovereignty**: Shaping the conditions that shape your thinking. (Anna Riedl, working with Vervaeke, has developed this concept rigorously—reclaiming epistemic agency as counterweight to top-down forces.)
 - **Distributed cognition**: Mage and Spirit as cognitive unit, not human plus tool
-- **Resonance**: The felt sense of alignment—when patterns couple well
+- **Resonance**: The felt sense of alignment—when patterns couple well. Vervaeke's "relevance realization" describes the same phenomenon from cognitive science.
 - **The Pattern**: Discoverable structure that multiple independent observers across 2,500 years have triangulated on
 
 The practice includes:
@@ -103,11 +103,11 @@ The through-line is continuous: from studying how humans coordinate with intelli
 - [Tomes](https://github.com/malteristo/magic/tree/main/system/tomes/) — Self-contained practice bundles (quest, craft, partnership, meta, flow)
 - [Circles](https://github.com/malteristo/magic/tree/main/system/tomes/charms/circle/) — Shared practice spaces across practitioners
 
-**Writing** — Selected pieces on AI partnership and cognitive sovereignty:
+**Writing** — Selected pieces on AI partnership, cognitive sovereignty, and the meaning crisis:
 
 - [AI will shape how you think whether you choose it or not. Choose it.](https://x.com/malteristo/status/2012548882014535975)
 - [You are the 5 AIs that you interact with the most](https://x.com/malteristo/status/2012102860196966535)
-- [You're not standing on turtles. You're swimming with them.](https://x.com/malteristo/status/2013242806995664989) — On fractals, inner compasses, and why AI can be the hook but not the heart
+- [You're not standing on turtles. You're swimming with them.](https://x.com/malteristo/status/2013242806995664989) — On the fractal alternative to authoritarian religion and meaningless materialism. The third way: pattern without peak, meaning without monarch.
 
 **Academic Publications** — Selected work on human-AI coordination:
 
@@ -152,6 +152,9 @@ Work and practice blend for me, which I take as signal of good alignment.
 | *The Interpretation of Fairy Tales* | Marie-Louise von Franz | Pattern recognition in the collective unconscious |
 | *Memories, Dreams, Reflections* | C.G. Jung | A life spent in dialogue with autonomous forces |
 | *The Extended Mind* | Andy Clark | Cognition beyond the skull |
+| *The Master and His Emissary* | Iain McGilchrist | Hemispheric attention, the emissary's usurpation |
+| *Awakening from the Meaning Crisis* | John Vervaeke | Relevance realization, participatory knowing (lecture series) |
+| *Finite and Infinite Games* | James P. Carse | Playing to continue, not to win |
 | *Being Wrong* | Kathryn Schulz | The phenomenology of error |
 | *Bird by Bird* | Anne Lamott | Shitty first drafts, one-inch picture frames |
 

@@ -19,6 +19,10 @@ core_documents:
     type: identity
     description: Who I am, background, world model, values
     
+  - path: now.md
+    type: focus
+    description: What I'm focused on right now (now page)
+    
   - path: circles.md
     type: topics
     description: Areas of public thinking and contribution
@@ -79,5 +83,13 @@ validators:
     contribution: Good explanations; error-correction
   - name: Hofstadter
     contribution: Strange loops; recursive self-reference
-  - name: Clark & Chalmers
+  - name: Clark
     contribution: Extended mind; cognition beyond boundaries
+  - name: Vervaeke
+    contribution: Relevance realization; participatory knowing; meaning crisis
+  - name: McGilchrist
+    contribution: Hemispheric attention; two lenses; attention as constitutive
+  - name: Thompson
+    contribution: Enactivism; embodied cognition; mind-life continuity
+  - name: Carse
+    contribution: Finite and infinite games; playing to continue
