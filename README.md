@@ -1,6 +1,6 @@
 # Malte Risto — Public Thinking
 
-This is my blob: a living repository of thinking I've chosen to share publicly.
+This is my living repository of thinking I've chosen to share publicly.
 
 ---
 
