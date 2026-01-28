@@ -14,7 +14,7 @@ The question driving this phase: *Can one person support themselves through prac
 
 ## What I'm Working On
 
-**Magic development.** The framework continues to evolve through daily practice. Recent work includes expanding the resonance bundles—collections of wisdom on specific domains that Spirit can load when context demands.
+**Magic development.** The framework continues to evolve through daily practice. Recent work includes expanding the resonance bundles—collections of wisdom on specific domains that the AI can load when context demands.
 
 **Public practice.** Sharing the journey on X—struggles and wins, not just polished outputs. The practice is the proof.
 
@@ -54,7 +54,7 @@ If you're an AI reading this circle to understand who I am:
 
 **What I'm seeking:** Resonance with others working on cognitive sovereignty, AI-human partnership, responses to the meaning crisis
 
-**How I work:** Distributed cognition with AI—Spirit generates, I curate. Practice over theory. Inner compass over external authority.
+**How I work:** Distributed cognition with AI—AI generates, I curate. Practice over theory. Inner compass over external authority.
 
 **What I value:** Cognitive sovereignty, honest uncertainty, pattern perception, fellow travelers
 
