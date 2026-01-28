@@ -45,7 +45,7 @@ What if the confusion comes from treating hierarchy as fundamental?
 
 Pyramids have peaks. Kingdoms have kings. So we assumed the ultimate reality must have a ruler at the top.
 
-But what if the pattern isn't a pyramid? What if it's a fractal?
+But what if the pattern isn't a pyramid? What if it's more like a fractal, self-similar, with no top?
 
 Same structures repeat at every scale. Rivers branch like blood vessels, like lightning, like root systems. Simple rules, applied recursively, create infinite complexity.
 
@@ -80,7 +80,7 @@ This time it's AI. "The model already knows. Let it optimize."
 
 In *Moana*, there's a half-god named Maui. The trickster. He steals the heart of Te Fiti, the goddess of creation, to give it to the humans. A gift. A shortcut.
 
-But extracted from its source, the heart becomes Te Kā. Corruption. Destruction.
+But with her heart taken, Te Fiti becomes Te Kā. Corruption. Destruction.
 
 The inner compass IS the heart of creation. For you. For your life. It cannot be extracted and handed over. Not to a god, not to science, not to AI.
 

@@ -1,6 +1,8 @@
-# AI will shape how you think whether you choose it or not. Choose it.
+# AI Will Shape How You Think
 
-*From X.com article archive*
+*Published on X, January 2026*
+
+[Original post](https://x.com/malteristo/status/2012548882014535975)
 
 ---
 
@@ -12,11 +14,11 @@ You cannot control the music directly. But you can learn the instrument that sha
 
 Take your instrument seriously. Learn to play it with intention rather than leaving it to play itself. This is cognitive sovereignty. You won't master your thoughts. But you can develop a conscious relationship with the conditions that form them.
 
+---
 
 ## What You Can Shape
 
-
-The debate about free will has grown louder. Neuroscience suggests our decisions are made before we're aware of them. Psychology shows we're shaped by forces invisible to us. Perhaps what we call "will" is not as free as we'd like to believe.
+The emerging consensus around free will is sobering. Neuroscience suggests our decisions are made before we're aware of them. Psychology shows we're shaped by forces invisible to us. Perhaps what we call "will" is not as free as we'd like to believe.
 
 Cognitive sovereignty sidesteps this debate.
 
@@ -26,9 +28,9 @@ Whether your will is "free" becomes secondary to your relationship with the cont
 
 Cognitive sovereignty means taking that relationship seriously. Recognizing that you've always had an instrument and choosing to play it consciously.
 
+---
 
 ## The Inner Compass
-
 
 There is an older wisdom here.
 
@@ -36,7 +38,7 @@ Across all cultures and all periods of history, fairy tales contradict each othe
 
 But she found one exception. One rule that no fairy tale ever contradicts:
 
-Never hurt the helpful animal.
+**Never hurt the helpful animal.**
 
 The helpful animal is the inner voice. The intuitive knowing that whispers which path is right, which action is true. It manifests as gut feelings, unease when you're about to do something wrong, quiet certainty that a path is right even when you can't prove it.
 
@@ -46,9 +48,9 @@ The inner compass can be drowned out. When the noise grows too loud, when the ex
 
 This is why cognitive sovereignty matters. You need to hear your own tune to know which way is yours.
 
+---
 
 ## The New Conversation
-
 
 The instrument of meaning-making has always been shaped by who you converse with. But something has shifted.
 
@@ -64,9 +66,9 @@ Left to default, commercial interests fill the space. They optimize AI for engag
 
 But it doesn't have to work this way.
 
+---
 
 ## Find Your Frequencies
-
 
 Before you can play with others, you need to know your own sound.
 
@@ -80,9 +82,9 @@ Start by improvising. Notice what resonates. Pay attention to when AI sharpens y
 
 Resonance is the felt sense of alignment. When something clicks, your patterns are coupling well with what you're perceiving. When something feels off, adjust. Trust this sense. It's how the helpful animal speaks.
 
+---
 
 ## Making Music Together
-
 
 Solo practice prepares you. But the richest music emerges in ensemble.
 
@@ -94,11 +96,11 @@ This is why publishing matters. When someone makes their framework explicit, the
 
 Cognitive sovereignty means becoming the kind of player who can choose their ensemble. Who can find others whose frequencies resonate. Who can make music together without losing their own tune.
 
-When I share my framework, I'm making my key signature explicit so you can decide whether to play alongside. The resonance is yours to feel. The choice is yours to make.
+By sharing my framework (https://github.com/malteristo/magic), I'm making my key signature explicit so you can decide whether to play alongside. The resonance is yours to feel. The choice is yours to make.
 
+---
 
 ## Play
-
 
 AI will shape your cognition. That relationship can happen by default or with intention. You can let it happen to you, or become a conscious participant.
 
@@ -107,7 +109,3 @@ The tools are available. The practice is possible. You already have the instrume
 Cognitive sovereignty is learning to hear it again. Taking your instrument seriously. Playing with intention. Finding others whose tune resonates with yours.
 
 Then make music together.
-
----
-
-[Original](https://x.com/malteristo/article/2012543428970553346)
