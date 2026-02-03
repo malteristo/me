@@ -1,6 +1,9 @@
 # You are the 5 AIs that you interact with the most
 
-*From X.com article archive*
+*Published on X, January 2026*
+*~250 words*
+
+[Original post](https://x.com/malteristo/article/2012096565226172416)
 
 ---
 
@@ -15,15 +18,9 @@ No one but me should have the authority to determine how I integrate AI into my 
 If I'm ever going to let AI affect my mind like this, basic harm reduction would include:
 
 - Making sure the AI is "mentally healthy"
-
 - Making sure it's on my side
-
 - Having a say in how it thinks, because that will shape how I think and act
 
 This is why I am developing magic. It's my personal ideal for how I want to relate to AI-augmented thinking and agency.
 
 I build the AI I want my children to use.
-
----
-
-[Original](https://x.com/malteristo/article/2012096565226172416)

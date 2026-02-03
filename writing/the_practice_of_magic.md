@@ -3,6 +3,8 @@
 *Published on X, January 2026*
 *~750 words*
 
+[Original post](https://x.com/malteristo/status/2016162407320621122)
+
 ---
 
 Something's off. Not in a dramatic, world-ending way—more like a persistent background hum. Maybe you scroll endlessly without satisfaction. Maybe achievements that should feel meaningful don't. Maybe you've noticed that having more information than any human in history hasn't made you wiser, just more overwhelmed.
