@@ -27,6 +27,18 @@ core_documents:
     type: topics
     description: Areas of public thinking and contribution
 
+# AI conversation recipes — portable practices, drag into any chat
+recipes:
+  - path: recipes/the_shaman_prompt.md
+    name: Values-Based Counsel
+    description: Helps discover personal values through conversation, then uses them as a compass for counsel
+    topics: [values, counsel, self-knowledge, inner-compass]
+    
+  - path: recipes/the_mirror_prompt.md
+    name: The Mirror
+    description: Reflects thoughts back with more precision — clarity through precise listening, not advice
+    topics: [clarity, reflection, thinking-partner, precision]
+
 # Published writing
 writing:
   - path: writing/swimming_with_turtles.md
