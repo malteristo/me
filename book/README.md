@@ -4,6 +4,20 @@
 
 ---
 
+## Talk to This Book
+
+This book talks. Give [`talk.md`](talk.md) and all the chapter files to any AI — Claude, ChatGPT, a local model, anything. The book becomes a guide you can have a conversation with. Ask it about the practice, ask it how to get started, ask it what it thinks about its own unwritten chapters. It knows itself.
+
+```
+1. Download this folder
+2. Give talk.md + all chapter files to your AI
+3. Start talking
+```
+
+You can also just read it. But talking to it is more fun — and more in the spirit of what the book is about.
+
+---
+
 This book is a seed. It grows in public.
 
 Some chapters are developed. Some are outlines. Some don't exist yet. That's intentional. The practice this book describes is itself a practice of growing — capturing what matters, shaping it over time, letting go of what doesn't serve. The book practices what it preaches.
@@ -53,13 +67,15 @@ Being let go. Building something real. Why I'm writing this.
 
 ---
 
-## How to Read This
+## How to Engage
 
-**If you want to start practicing now:** Read the [Preface](preface.md), then skip to [Getting Started](09-getting-started.md). Everything else is context.
+**Talk to it:** Download this folder, give the files to your AI, have a conversation. The book meets you where you are.
 
-**If you want to understand the philosophy:** Start from the beginning. Part I is the foundation.
+**Read it:** Start with the [Preface](preface.md), then [Getting Started](09-getting-started.md) if you want to practice now, or from the beginning if you want the philosophy.
 
-**If you're a developer or builder:** You might want the [magic repository](https://github.com/malteristo/magic) instead. This book is for practitioners.
+**Practice with it:** When you're ready for a personal AI partner (not just a book), the book will point you to [Turtle OS](https://github.com/malteristo/turtle-practice).
+
+**Build with it:** If you want to build practice systems, you want the [magic repository](https://github.com/malteristo/magic).
 
 ---
 
