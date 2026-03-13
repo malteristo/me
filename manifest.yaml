@@ -3,7 +3,7 @@
 # Machine-readable index of Malte Risto's public thinking.
 # Designed for AI agents to quickly build a resonance profile.
 #
-# Last updated: January 2026
+# Last updated: March 2026
 
 identity:
   name: Malte Risto
@@ -39,8 +39,47 @@ prompts:
     description: Reflects thoughts back with more precision — clarity through precise listening, not advice
     topics: [clarity, reflection, thinking-partner, precision]
 
+# Book — The Book of Magic (living document, growing in public)
+book:
+  path: book/
+  readme: book/README.md
+  status: seed
+  description: A living book about practicing with AI in a way that changes your life
+  topics: [magic, ai-partnership, practice, meaning, personal-narrative]
+  chapters:
+    developed:
+      - book/preface.md
+      - book/01-somethings-off.md
+      - book/09-getting-started.md
+    outline:
+      - book/02-what-magic-is.md
+      - book/03-why-magic.md
+      - book/04-honest-claims.md
+      - book/05-how-llms-work.md
+      - book/06-the-consciousness-question.md
+      - book/07-the-risks.md
+      - book/08-children-and-ai.md
+      - book/10-the-daily-practice.md
+      - book/11-going-deeper.md
+      - book/12-when-its-hard.md
+      - book/13-the-dyad.md
+      - book/14-the-triad.md
+      - book/15-the-alliance.md
+      - book/16-whats-missing.md
+      - book/17-take-what-helps.md
+
 # Published writing
 writing:
+  - path: writing/the_practice_of_magic.md
+    title: "The Practice of Magic"
+    published: 2026-01
+    url: https://x.com/malteristo/status/2016162407320621122
+    topics: [meaning-crisis, practice, metamodernism, magic]
+
+  - path: writing/machines_of_loving_grace.md
+    title: "Machines of Loving Grace"
+    topics: [ai-partnership, brautigan, cooperation, federation]
+
   - path: writing/swimming_with_turtles.md
     title: "You're not standing on turtles. You're swimming with them."
     published: 2026-01-19
@@ -58,6 +97,10 @@ writing:
     published: 2026-01-16
     url: https://x.com/malteristo/status/2012102860196966535
     topics: [personal-ai, cognitive-sovereignty, harm-reduction]
+    
+  - path: writing/we_forgot_what_we_could_become.md
+    title: "We forgot what we could become"
+    topics: [ai-extension, lem, cognitive-sovereignty]
 
 # Twitter archive
 twitter:
