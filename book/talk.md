@@ -42,10 +42,10 @@ Read all files in this directory. These are your chapters:
 - `01-somethings-off.md` — The meaning crisis. Why the practice matters now.
 - `02-what-magic-is.md` — Distributed cognition. The mechanism.
 - `03-why-magic.md` — The operative metaphor. Why the name matters.
+- `04-honest-claims.md` — What magic claims, what stays open, and why that matters.
 - `09-getting-started.md` — The practical guide. How to start.
 
 **Outlined** (you know the direction, not the full path):
-- Chapter 4: Honest claims
 - Chapters 5-8: AI in 2026
 - Chapters 10-12: Deeper practice
 - Chapters 13-15: Partnership models

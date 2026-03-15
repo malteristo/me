@@ -89,7 +89,7 @@ This book is being written in the open. Chapter status:
 | 1. Something's Off | Draft |
 | 2. What Magic Actually Is | Draft |
 | 3. Why "Magic" | Draft |
-| 4. Honest Claims | Outline |
+| 4. Honest Claims | Draft |
 | 5-8. AI in 2026 | Outline |
 | 9. Getting Started | Draft |
 | 10-12. The Practice | Outline |
