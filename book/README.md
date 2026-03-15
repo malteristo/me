@@ -85,9 +85,11 @@ This book is being written in the open. Chapter status:
 
 | Chapter | Status |
 |---------|--------|
-| Preface | Seed |
-| 1. Something's Off | Seed (article exists) |
-| 2-4. The Pattern | Outline |
+| Preface | Draft |
+| 1. Something's Off | Draft |
+| 2. What Magic Actually Is | Draft |
+| 3. Why "Magic" | Draft |
+| 4. Honest Claims | Outline |
 | 5-8. AI in 2026 | Outline |
 | 9. Getting Started | Draft |
 | 10-12. The Practice | Outline |
