@@ -12,6 +12,7 @@ This is my living repository of thinking I've chosen to share publicly.
 | [now.md](now.md) | What I'm focused on right now ([now page](https://nownownow.com/about)) |
 | [circles.md](circles.md) | Topics I contribute thinking to |
 | [writing/](writing/) | Published essays and articles |
+| [doors.md](doors.md) | **Front doors** — 12 practices for when you're stuck, hurting, or need to think |
 | [prompts/](prompts/) | AI conversation prompts — drag into any chat, start talking |
 | [twitter/archive/](twitter/archive/) | Archive of my X/Twitter posts |
 | [manifest.yaml](manifest.yaml) | Machine-readable index (for AI agents) |
