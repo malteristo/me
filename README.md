@@ -11,6 +11,7 @@ This is my living repository of thinking I've chosen to share publicly.
 | [about.md](about.md) | Who I am, background, values, how I think |
 | [now.md](now.md) | What I'm focused on right now ([now page](https://nownownow.com/about)) |
 | [circles.md](circles.md) | Topics I contribute thinking to |
+| [book/](book/) | The Book of Magic — living book about AI-human practice |
 | [writing/](writing/) | Published essays and articles |
 | [doors.md](doors.md) | **Front doors** — 12 practices for when you're stuck, hurting, or need to think |
 | [prompts/](prompts/) | AI conversation prompts — drag into any chat, start talking |

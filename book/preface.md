@@ -30,9 +30,7 @@ What I've built since then is two things:
 
 **A practice.** A way of thinking with AI that compounds over time. You map what matters to you. You capture raw thoughts. You process them with your AI partner. Over time, intentions form — bigger than tasks, more concrete than dreams. The practice holds them. The AI spots patterns you miss. You make the decisions.
 
-**A system.** The files, prompts, and protocols that make the practice work. It runs on any AI — a local model on a laptop, a frontier API, a phone app. Your data stays on your machine. Nothing is locked in. The practice scales with the intelligence you give it, but it works at every level.
-
-The system is called [Turtle OS](https://github.com/malteristo/turtle-practice). It's a folder of markdown files and a system prompt. Give it to any AI that can read files, and you have a thinking partner that actually knows you.
+**A system.** The files, prompts, and protocols that make the practice work. At the portable level, this can be as simple as markdown files and a system prompt that any capable AI can read. At the persistent level, [turtleOS](https://github.com/malteristo/turtleos) turns the practice into self-hosted infrastructure on hardware you own: a partner that can remember, return, reflect, and meet you across time. Your data stays in files you control. Nothing is locked in. The practice scales with the intelligence you give it, but it works at every level.
 
 ---
 

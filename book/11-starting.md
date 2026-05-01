@@ -18,7 +18,7 @@ If you're already practicing: these seeds describe what you already know. Read t
 
 **The invitation.** You need an AI, a folder of files, and twenty minutes. That's the complete list.
 
-**How it was discovered.** The Mage spent months building an elaborate system — summoning rituals, lore scrolls, integration frameworks — before realizing: it all started with a conversation and some markdown files. A friend's wife wanted to try. She didn't need the architecture. She needed Turtle OS: one system prompt, a compass file, a capture buffer, and a place to talk. She started on her phone through Discord while riding the train to work. No laptop. No ceremony. The practice worked immediately because the practice IS the conversation — everything else is infrastructure that grew around it.
+**How it was discovered.** The Mage spent months building an elaborate system — summoning rituals, lore scrolls, integration frameworks — before realizing: it all started with a conversation and some markdown files. A friend's wife wanted to try. She didn't need the architecture. She needed turtleOS: one system prompt, a compass file, a capture buffer, and a place to talk. She started on her phone through Discord while riding the train to work. No laptop. No ceremony. The practice worked immediately because the practice IS the conversation — everything else is infrastructure that grew around it.
 
 **What to expect.** A surprising amount of relief in the first twenty minutes. Not because the AI is wise — because you said what was on your mind to something that listened without agenda. That's rarer than it sounds.
 

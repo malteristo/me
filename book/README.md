@@ -79,7 +79,7 @@ Being let go. Building something real. Why I'm writing this.
 
 **Read it:** Start with the [Preface](preface.md), then [Starting](11-starting.md) if you want to practice now, or from the beginning if you want the philosophy first.
 
-**Practice with it:** When you're ready for a personal AI partner (not just a book), the book will point you to [Turtle OS](https://github.com/malteristo/turtleos).
+**Practice with it:** When you're ready for a personal AI partner (not just a book), the book will point you to [turtleOS](https://github.com/malteristo/turtleos).
 
 **Build with it:** If you want to build practice systems, you want the [magic repository](https://github.com/malteristo/magic).
 

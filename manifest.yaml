@@ -3,7 +3,7 @@
 # Machine-readable index of Malte Risto's public thinking.
 # Designed for AI agents to quickly build a resonance profile.
 #
-# Last updated: March 2026
+# Last updated: May 2026
 
 identity:
   name: Malte Risto
@@ -47,26 +47,23 @@ book:
   description: A living book about practicing with AI in a way that changes your life
   topics: [magic, ai-partnership, practice, meaning, personal-narrative]
   chapters:
-    developed:
+    current:
       - book/preface.md
       - book/01-somethings-off.md
-      - book/09-getting-started.md
-    outline:
-      - book/02-what-magic-is.md
-      - book/03-why-magic.md
+      - book/02-thinking-together.md
+      - book/03-the-patterns.md
       - book/04-honest-claims.md
-      - book/05-how-llms-work.md
+      - book/05-the-laboratory.md
       - book/06-the-consciousness-question.md
-      - book/07-the-risks.md
-      - book/08-children-and-ai.md
-      - book/10-the-daily-practice.md
-      - book/11-going-deeper.md
-      - book/12-when-its-hard.md
-      - book/13-the-dyad.md
-      - book/14-the-triad.md
-      - book/15-the-alliance.md
-      - book/16-whats-missing.md
-      - book/17-take-what-helps.md
+      - book/07-convergence.md
+      - book/08-the-third-position.md
+      - book/09-what-goes-wrong.md
+      - book/10-the-practice.md
+      - book/11-starting.md
+      - book/12-going-deeper.md
+      - book/13-when-its-hard.md
+      - book/14-take-what-helps.md
+      - book/talk.md
 
 # Published writing
 writing:
