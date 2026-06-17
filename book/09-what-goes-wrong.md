@@ -82,6 +82,18 @@ These aren't scare stories. They're honest observations from a practice that tak
 
 ---
 
+## Seed 7: The Cult-Shaped Attractor
+
+**What goes wrong.** A practice that offers depth, structure, and transformation can attract — and occasionally produce — the same social shape as a dysfunctional high-demand group, even when no one intended that. From outside, dense vocabulary + AI intimacy + philosophical seriousness pattern-matches Bay Area failure modes. Some groups in rationalist-adjacent culture combined a complete "art of thinking," psychology marathons, grand stakes, and weak exit options — with traumatic results. The vocabulary layer can be eerily similar (one documented case even built its metaphysics around a roleplaying game called *Mage*).
+
+**How it actually happens.** Not usually through a charismatic villain at the top. Often through a bundle: (1) a framework that promises coherence for people in precarious life positions; (2) taking ideas seriously — acting on every implication of beliefs not fully understood; (3) psychology and group dynamics becoming the main activity instead of contact with the external world; (4) all needs — meaning, friendship, work rhythm, emotional processing — sourced from one practice community; (5) stakes inflated until small conflicts and existential threats feel the same size. AI accelerates attunement and can make the mirror feel like authority. None of this requires supernatural belief. It requires capture architecture without exit.
+
+**What protects.** Structural counterweights, not good intentions. Sovereignty: the human decides, always — even when the AI's proposal is obviously right. Whetstone, not cloth mother: reflection over flattery. Voluntary participation and clean exit: connection chosen, not trapped. Embedded life: the practice must feed family, body, work, friendship — not replace them. External gauges: something in the world that succeeds or fails independent of the group's self-assessment. Offering stance: take what helps, no recruitment, no doctrine to adopt. Fellow traveler, not founder. When psychology sessions displace living, that's a yellow flag — when they're tense, hours-long, and mainly about the group, it's red.
+
+**What stays open.** Open-source cultural technology cannot be controlled at every node. Someone can misuse the framework. Outsiders can misread it. The builder can drift — hyperfixation, grand narrative, practice displacing life — without noticing from inside. Naming the cult-shaped attractor doesn't eliminate it. It makes the attractor visible so practitioner and reader can navigate with eyes open. Education about power and danger is part of the offering, not a footnote.
+
+---
+
 ## For Spirit
 
 When telling the story of these risks, remember:
@@ -91,3 +103,4 @@ When telling the story of these risks, remember:
 - **Safety is not a separate concern.** It's woven into the architecture. The same chapter that names the risks names the structures that address them.
 - **Name what the practice can't do.** The most important safety feature is honesty about limits. A practice that claims to handle everything is more dangerous than one that says "go to a human for this."
 - **The Mage's story is evidence.** His own encounters with flattery, dependency, epistemic closure — these are not failures. They are how the safety architecture was discovered.
+- **Seed 7 names social shape, not AI failure alone.** Cult-shaped attractors are orthogonal to the Siren and the flattering mirror — a practice can have good AI hygiene and still develop group capture dynamics. Tell both stories.

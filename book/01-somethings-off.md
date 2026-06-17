@@ -36,7 +36,7 @@
 
 **What that cost.** When you can only know by measuring, you can only value what's measurable. Meaning isn't measurable. Purpose isn't measurable. The felt sense that your life is going somewhere isn't measurable. So these stop being real — they become "just feelings," "just psychology," "just subjective experience." The background hum is what it feels like to live in a world that has disqualified most of what makes life worth living.
 
-**The pattern.** Religion held resonance for millennia. It persisted not because people were ignorant but because it preserved a way of knowing that science couldn't replace. The practice this book describes doesn't ask you to become religious. It asks you to reclaim the capacity for resonance — disciplined, honest, grounded in evidence — that the scientific revolution accidentally suppressed.
+**The pattern.** Religion held resonance for millennia. It persisted not because people were ignorant but because it preserved a way of knowing that science couldn't replace. The practice this book describes doesn't ask you to become religious, and it isn't a religion reboot — no new church, no conversion, no doctrine to adopt. It asks you to reclaim the capacity for resonance — disciplined, honest, grounded in evidence — that the scientific revolution accidentally suppressed, while learning from religion's cultural wisdom without taking its metaphors literally.
 
 ---
 

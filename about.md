@@ -16,6 +16,20 @@ What follows is my current best understanding—a contribution to a shared conve
 
 ---
 
+## What This Is — and What It Isn't
+
+Magic grew out of personal exploration—meaning, spirituality, culture, transformation, relationships, technology, the questions that kept pulling me. The framework is how I work with AI to think clearly about those things. I'm opening that thinking to family, friends, and anyone who finds value in it for their own journey.
+
+**Fellow traveler, not founder.** I don't need to recruit anyone. I'm not offering membership, salvation, or a grand plan. I'm offering curated wisdom from a practice that works for me—take what helps, leave what doesn't, build what's yours. That stance is load-bearing, not modesty.
+
+**Not a religion reboot.** I'm not trying to start an alternative religion. Over time I've developed a new appreciation for religion as *cultural* practice rather than mystical literalism—the accumulated wisdom of centuries, much of it practical engineering dressed in sacred language. When scripture warns of a "deal with the devil," I read that as cultural wisdom: shortcuts that tempt in the moment and cost you in the long run. The horned figure isn't the point; the warning is. Magic doesn't ask you to believe that. It asks whether some of that hardened wisdom can be translated into a modern practice without pretending the metaphysics are settled.
+
+**Cultural technology, dual-use.** Any powerful framework for meaning and transformation can help or harm. Dense lore, AI partnership, and sustained inner work can look—from outside—like the failure modes documented in rationalist-adjacent groups: complete thinking systems, psychology as the main activity, outsourced agency, isolation. I take that resemblance seriously. Magic integrates harm reduction into its architecture—cognitive sovereignty, honest reflection over flattery, voluntary participation, the human always decides. That doesn't let me control how others use the framework once it's open. What I can do is keep educating people about both the power and the dangers, and model practice that stays embedded in ordinary life rather than replacing it.
+
+If this resonates, explore. If it doesn't, that's fine too.
+
+---
+
 ## My World Model
 
 ### A Mental Stance, Not a Metaphysical Claim
