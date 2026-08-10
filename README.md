@@ -8,7 +8,9 @@ This is my living repository of thinking I've chosen to share publicly.
 
 | Path | Contents |
 |------|----------|
-| [about.md](about.md) | Who I am, background, values, how I think |
+| [about.md](about.md) | Professional identity — who I am, what I offer, background |
+| [stance.md](stance.md) | How I think — operating model and meaning-frame |
+| [career.md](career.md) | Machine-readable career summary |
 | [now.md](now.md) | What I'm focused on right now ([now page](https://nownownow.com/about)) |
 | [circles.md](circles.md) | Topics I contribute thinking to |
 | [book/](book/) | The Book of Magic — living book about AI-human practice |
@@ -22,7 +24,7 @@ This is my living repository of thinking I've chosen to share publicly.
 
 ## For Humans
 
-Start with [about.md](about.md). It's the most complete picture of where I'm coming from.
+Start with [about.md](about.md) if you want to know who I am and what I offer. [stance.md](stance.md) is how I think. [career.md](career.md) is the résumé-shaped record.
 
 If something resonates—or productively dissonates—I'd welcome hearing from you.
 
