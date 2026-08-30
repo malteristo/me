@@ -10,7 +10,7 @@ Today I build open practice infrastructure for human–AI collaboration, and I h
 
 **Facilitation & workshops.** Hands-on sessions where people practice with AI on real tasks and real documents (grant review, research workflows, knowledge work). I design for the tools they are allowed to use — including institution-hosted models and RAG — and for the failure modes that show up in practice: wrong model shelf, brittle retrieval, hallucinations, “it worked in the demo.”
 
-**Practice infrastructure.** [Magic](https://github.com/malteristo/magic) is an open framework for intentional human–AI partnership. [turtleOS](https://github.com/malteristo/turtleos) is sovereign practice infrastructure (persistent partner, local and cloud models, memory you control). I build what I use with my own family and practice.
+**Practice infrastructure.** [Magic](https://github.com/malteristo/magic) is an open framework for intentional human–AI partnership. [turtleOS](https://github.com/malteristo/turtleos) is a place for practices — rooms with a Turtle and a River, on a machine you own. I build what I use with my own family and practice.
 
 **Research stance.** I come from studying trust, advice-following, and coordination with automated systems — then designing those interactions in industry — not from selling AI products. The unit of interest is the human–AI pair doing real work.
 
